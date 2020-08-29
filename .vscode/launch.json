@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "attach",
-            "name": "Attach",
+           "name": "Attach",
             "restart": true,
             "port": 9229,
             "skipFiles": [
